@@ -1,0 +1,24 @@
+# POST http://localhost:3000/signin
+# Content-Type: application/json
+
+# {
+#     "email": "dineshkrish0212@gmail.com",
+#     "password": "Dk@02122002"
+   
+# }
+
+# GET http://localhost:3000/get-upload-url
+
+#POST http://localhost:3000/get-profile
+#Content-Type: application/json
+
+#{
+ #   "username":"john"
+#}
+GET http://localhost:3000///latest-blog
+Content-Type: application/json
+
+{
+
+}
+
