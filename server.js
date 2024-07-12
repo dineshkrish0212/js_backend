@@ -35,7 +35,7 @@ let passwordRegex = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,20}$/; // regex for pass
 
   origin: [
 
-      '*','https://js-frontend-seven.vercel.app'
+      '*','https://js-frontend-seven.vercel.app','https://frontend-lime-nu.vercel.app'
 
   ],
 
